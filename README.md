@@ -24,6 +24,7 @@ Verify this:
 ```bash
 python3 plot_mass.py
 ```
+This creates "m_ee.png".
 
 ---
 
